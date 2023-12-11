@@ -46,4 +46,5 @@
 
 (require 'python)
 (require 'yaml)
+(require 'go)
 (provide 'IDE)
