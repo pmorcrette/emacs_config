@@ -1,0 +1,1 @@
+/home/dakaedr/.emacs.d/straight/repos/straight.el/straight.el
