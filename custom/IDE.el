@@ -10,6 +10,10 @@
   :hook
   (prog-mode . rainbow-delimiters-mode))
 
+(use-package direnv
+        :config
+(direnv-mode))
+
 (use-package lsp-mode
   :custom
   (lsp-completion-provider :none)
