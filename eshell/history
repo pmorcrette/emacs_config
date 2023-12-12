@@ -1,0 +1,5 @@
+pwd 
+cd 
+cd dev/elisp/
+echo "$(pwd)/emacs_config"
+echo "$(pwd)emacs_config"
