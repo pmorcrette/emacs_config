@@ -611,7 +611,7 @@
 	    (:maintainer "Daniel Mendler" . "mail@daniel-mendler.de")
 	    (:commit . "10a1d7012af5186e6462f44312724359d33748c3"))])
  (consult-recoll .
-		 [(0 8)
+		 [(0 8 1)
 		  ((emacs
 		    (26 1))
 		   (consult
@@ -622,7 +622,7 @@
 		   (:maintainer "Jose A Ortega Ruiz" . "jao@gnu.org")
 		   (:authors
 		    ("Jose A Ortega Ruiz" . "jao@gnu.org"))
-		   (:commit . "1480027006df774ac3e2f38a6750a369263ea409"))])
+		   (:commit . "ba68d052d9479aeaa5dda15a57a2c070df7d9bca"))])
  (context-coloring .
 		   [(8 1 0)
 		    ((emacs
@@ -817,7 +817,7 @@
 	    (:maintainer "Phil Sainty" . "psainty@orcon.net.nz")
 	    (:url . "https://savannah.nongnu.org/projects/delight"))])
  (denote .
-	 [(2 2 1)
+	 [(2 2 2)
 	  ((emacs
 	    (28 1)))
 	  "Simple notes with an efficient file-naming scheme" tar
@@ -825,7 +825,7 @@
 	   (:maintainer "Denote Development" . "~protesilaos/denote@lists.sr.ht")
 	   (:authors
 	    ("Protesilaos Stavrou" . "info@protesilaos.com"))
-	   (:commit . "3dce4a7b5d8eb058c48145b32da2e399a9567043"))])
+	   (:commit . "8acd82b12afb7ca07e044a7eb2d6b4da1066ea12"))])
  (denote-menu .
 	      [(1 2 0)
 	       ((emacs
